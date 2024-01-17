@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705534931 source:g:\coding in c\ticketing machine\main.c
+	<stdio.h>
+	<unistd.h>
+
